@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,Programmers!👋;I'm+Rishita+Sarda...;This+is+my+profile!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,Programmers!👋;I'm+✿✧✰𝘙𝗶ᔆ𝒉𝒾τ𝗮✰✧✿...;This+is+my+profile!&center=true&size=30">
   </a>
 </h1>
 <h3 align="center">A passionate IT educator, web developer & tech learner from India </h3>
