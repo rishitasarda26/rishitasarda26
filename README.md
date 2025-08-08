@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,Programmers!👋;I'm+Rishita+Sarda...;This+is+my+profile!&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">A passionate IT educator, web developer & tech learner from India 🇮🇳</h3>
+<h3 align="center">A passionate IT educator, web developer & tech learner from India </h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
